@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Aula04</h1>
-        <img src="https://w7.pngwing.com/pngs/699/849/png-transparent-money-bag-cartoon-hands-carry-money-bags-cartoon-man-cartoon-character-hand-business-man.png" alt="fotoDoHomemComDinheiro"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1q1Eq0n3TH-4Q9mmwwG8sDAH4du5cLXAxgvVAQWkbX8aPFwlhE7uJjuPl9ZGkBiSFeg&usqp=CAU" alt="fotoDoHomemComDinheiro"/> 
       </header>
     </div>
   );
